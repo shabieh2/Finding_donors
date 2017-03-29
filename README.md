@@ -1,2 +1,2 @@
-# P2_finding_donors
+# P2_SUPERVISED_LEARNING_PROJECT
 Donors project
