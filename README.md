@@ -1,2 +1,2 @@
-#SUPERVISED_LEARNING_PROJECT
+Finding Donors Project
 
